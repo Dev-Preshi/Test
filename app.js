@@ -1,7 +1,7 @@
 const person = {
     firstname: "Precious",
     lasname: "Ikeji",
-    birthYear : 2025,
+    birthYear : 2024,
     age: birthYear - 2007,
     country: "Canada",
 };
