@@ -3,7 +3,7 @@ const person = {
     lasname: "Ikeji",
     birthYear : 2024,
     age: birthYear - 2007,
-    country: "Nigeria",
+    country: "Canada",
 };
 
 console.log(person);
